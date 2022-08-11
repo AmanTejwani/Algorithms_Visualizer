@@ -8,7 +8,7 @@ Algorithm visualization illustrates how algorithms work in a graphical way. It m
  - pathfinding 
 
 
-> Sorting algorithm
+> Sorting algorithm 
  - Bubble sort
  - selection sort
  - insertion sort
